@@ -2,8 +2,7 @@
 
 Esborrany Projecte AlmostReal
 
-![Texto alternativo](<img width="375" height="532" alt="Captura de pantalla 2026-10-19 193541" src="https://github.com/user-attachments/assets/c88836ab-57f9-4f71-873a-7cef0bea6bbb" />
-)
+![Texto alternativo](IMG_9008.jpg)
 
 
 Esquema de com ho farem:
